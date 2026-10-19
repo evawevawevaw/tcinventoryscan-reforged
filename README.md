@@ -11,6 +11,13 @@ next to the cursor.
 Same rules as scanning in the world: unknown parent aspects block the scan, scanned things are skipped.
 The mod is needed on both client and server.
 
+## Versions
+
+| Minecraft | Location | Java |
+|-----------|----------|------|
+| 26.3      | repository root | 25 |
+| 1.21.1    | [`mc-1.21.1/`](mc-1.21.1) | 21 |
+
 ## Build
 
 Java 25 required.
