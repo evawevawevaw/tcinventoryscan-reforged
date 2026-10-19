@@ -1,4 +1,4 @@
-# Thaumic Inventory Scanning (Thaumcraft 4: Reforged, MC 26.3)
+# Thaumic Inventory Scanning (Thaumcraft 4: Reforged, NeoForge 26.3)
 
 Unofficial port of [ThaumicInventoryScanning](https://github.com/TwelveIterationMods/ThaumicInventoryScanning)
 to Minecraft 26.3 / NeoForge 26.3, as an addon for
